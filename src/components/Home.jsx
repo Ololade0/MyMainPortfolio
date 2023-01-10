@@ -12,10 +12,10 @@ const Home = () => {
       justify-center h-full px-4 md:flex-row ">
 
         <div className="flex flex-col justify-center h-full ">
-            <h2 className="text-4xl sm:text-7xl font-bold text-white
+            <h5 className="text-4xl sm:text-7xl font-bold text-white
             ">
-                I'm a Back-End Developer
-            </h2>
+               I'm a Software Engineer
+            </h5>
             <p className="text-gray-500 py-4 max-w-md">
                 I have 1 years of experience building and designing software,
                 Currently, I love to work on web application using technologies like,

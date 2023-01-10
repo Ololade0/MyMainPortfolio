@@ -18,6 +18,7 @@ import node from '../assert/node.png';
 import postgresql from '../assert/postgresql.png';
 import postman from '../assert/posty.png';
 import python from '../assert/python.jpeg';
+import django from '../assert/django.png';
 import spring from '../assert/spring1.png';
 import typescript from '../assert/typsrcpt.png';
 import tailwind from '../assert/tailwind.png';
@@ -54,17 +55,24 @@ const Experience = () => {
             style: "shadow-blue-600"
         },
 
-        // {
-        //     id: 5,
-        //     src: nextjs,
-        //     title: "NEXTJS",
-        //     style: "shadow-white"
-        // },
+        {
+            id: 5,
+            src: python,
+            title: "PYTHON",
+            style: "shadow-white"
+        },
+
+        {
+            id: 5,
+            src: django,
+            title: "DJANGO",
+            style: "shadow-white"
+        },
 
         {
             id: 6,
-            src: aws,
-            title: "AWS",
+            src: css,
+            title: "CSS",
             style: "shadow-gray-400"
         },
 
@@ -82,12 +90,7 @@ const Experience = () => {
             style: "shadow-orange-400"
         },
 
-        {
-            id: 9,
-            src: cloudinary,
-            title: "CLOUDINARY",
-            style: "shadow-sky-400"
-        },
+    
 
         {
             id: 10,
@@ -96,12 +99,12 @@ const Experience = () => {
             style: "shadow-sky-400"
         },
 
-        // {
-        //     id: 10,
-        //     src: postgresql,
-        //     title: "SQL",
-        //     style: "shadow-sky-400"
-        // },
+        {
+            id: 10,
+            src: mysql,
+            title: "SQL",
+            style: "shadow-sky-400"
+        },
 
         {
             id: 11,
@@ -110,26 +113,7 @@ const Experience = () => {
             style: "shadow-sky-400"
         },
 
-        // {
-        //     id: 12,
-        //     src: node,
-        //     title: "NODEJS",
-        //     style: "shadow-green-400"
-        // },
 
-        {
-            id: 13,
-            src: vercel,
-            title: "VERCEL",
-            style: "shadow-sky-400"
-        },
-
-        {
-            id: 14,
-            src: express,
-            title: "EXPRESSJS",
-            style: "shadow-sky-400"
-        },
 
         {
             id: 15,
@@ -144,24 +128,7 @@ const Experience = () => {
             style: "shadow-gray-400"
         }
         ,
-        // {
-        //     id: 17,
-        //     src: typescript,
-        //     title: "TYPESCRIPT",
-        //     style: "shadow-sky-400"
-        // },
-        // {
-        //     id: 18,
-        //     src:go,
-        //     title: "GO",
-        //     style: "shadow-sky-400"
-        // },
-        // {
-        //     id: 19,
-        //     src:tailwind,
-        //     title: "TAILWIND",
-        //     style: "shadow-sky-400"
-        // },
+       
         {
             id: 20,
             src:html,
