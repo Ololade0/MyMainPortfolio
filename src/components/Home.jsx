@@ -17,7 +17,7 @@ const Home = () => {
                I'm a Software Engineer
             </h5>
             <p className="text-gray-500 py-4 max-w-md">
-                I have 1 years of experience building and designing software,
+                I have a year of experience building and designing software,
                 Currently, I love to work on web application using technologies like,
                 Java, Javascript, Python, SpringBoot, Django, MySQL and PostgreSQL.
 
